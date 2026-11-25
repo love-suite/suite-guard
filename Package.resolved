@@ -1,0 +1,14 @@
+{
+  "pins" : [
+    {
+      "identity" : "suite-core",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/love-suite/suite-core",
+      "state" : {
+        "revision" : "1e6a90aa5f34aeec894d0d313fc88dafa14e6265",
+        "version" : "27.1.0-dev.1"
+      }
+    }
+  ],
+  "version" : 2
+}
